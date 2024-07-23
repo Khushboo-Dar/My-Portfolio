@@ -1,0 +1,50 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/c.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/c++.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "Latex",
+    "imageSrc": "skills/latex.png"
+  },
+  {
+    "title": "Shell Script",
+    "imageSrc": "skills/shell.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/boot.png"
+  },
+  {
+    "title": "Adobe Photoshop",
+    "imageSrc": "skills/adobe.png"
+  }
+]
