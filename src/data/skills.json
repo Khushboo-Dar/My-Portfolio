@@ -46,5 +46,22 @@
   {
     "title": "Adobe Photoshop",
     "imageSrc": "skills/adobe.png"
+  },
+  {
+    "title": "Linux",
+    "imageSrc": "skills/linux.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Github",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "VS Code ",
+    "imageSrc": "skills/vscode.png"
   }
+
 ]
