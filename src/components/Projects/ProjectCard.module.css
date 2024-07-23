@@ -57,4 +57,10 @@
     border-radius: 100px;
     background:var(--color-primary);
     padding:1px 22px;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, color 0.25s ease;
+}
+.link:hover{
+    transform: translateY(-2px);
+    color: #132a53; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }

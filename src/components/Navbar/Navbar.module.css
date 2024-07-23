@@ -41,7 +41,7 @@
 
 .menuItems a:hover {
   transform: translateY(-2px);
-  color: var(--color-primary); /* Change to a primary color on hover */
+  color: var(--color-primary); 
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 

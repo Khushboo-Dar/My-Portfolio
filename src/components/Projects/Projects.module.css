@@ -5,7 +5,6 @@
     color: var(--color-text);
     margin-left: 10%;
     margin-right: 10%;
-
 }
 
 .title {
@@ -13,7 +12,8 @@
     font-weight: 700;
     letter-spacing: 1.75px;
     text-transform: uppercase;
-
+    margin-left: 18em;
+    margin-bottom: 40px;
 }
 
 .projects {
@@ -25,6 +25,12 @@
     justify-content: center;
     gap: 15px;
     width: 100%;
+}
 
-
+@media screen and (max-width: 830px) {
+    .title {
+        margin-left: 0;
+        font-size: 30px;
+        text-align: center;
+    }
 }
