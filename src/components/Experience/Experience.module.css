@@ -1,5 +1,5 @@
 @import "../../vars.css";
-.contianer{
+.container{
     color:var(--color-text);
     margin-top:79px;
     margin-left:10%;
@@ -43,11 +43,11 @@ justify-content: flex-start;
     display: flex;
     align-items: center;
     justify-content: center;
-    width:120px;
-    height: 120px;
+    width:7.5rem;
+    height: 7.5rem;
 }
 .skillImageContainer img{
-    width:75px;
+    width:4.6rem;
 
 }
 .skill  p{
@@ -104,6 +104,7 @@ margin: 0;
 
 @media screen and (max-width:830px)
 {
+    
     .content{
         flex-direction: row;
         align-items: center;
@@ -125,5 +126,15 @@ margin: 0;
             margin-left:2rem;
             font-size: 30px;
         }
-
+        .skillImageContainer
+        {
+width:5rem;
+height: 5rem;
+        }
+        .skillImageContainer img{
+width:2.8rem;
+        }
+        .skill p{
+font-size: 20px;
+        }
 }
