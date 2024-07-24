@@ -15,11 +15,11 @@ export const Contact = () => {
             </li>
             <li className={styles.link}>
                 <img src={getImageUrl("contact/linkedinIcon.png")} alt="linkedinicon">
-                </img><a href="https://www.linkedin.com/in/khushboo-dar-0800472b7">linkedin.com/khushboo-dar</a>
+                </img><a href="https://www.linkedin.com/in/khushboo-dar-0800472b7">linkedin</a>
             </li>
             <li className={styles.link}>
                 <img src={getImageUrl("contact/githubIcon.png")} alt="githubicon">
-                </img><a href="https://github.com/Khushboo-Dar">github.com/Khushboo-Dar</a>
+                </img><a href="https://github.com/Khushboo-Dar">github</a>
             </li>
         </ul>
     </footer>
