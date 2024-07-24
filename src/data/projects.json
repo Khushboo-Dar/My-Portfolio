@@ -10,9 +10,9 @@
     {
       "title": "Tutorials Point clone",
       "imageSrc": "projects/project.png",
-      "description": "A fully functional clone of Tutorials Point, developed collaboratively, featuring interactive tutorials, user-friendly design, and comprehensive resources.",
+      "description": "A desktop clone of Tutorials Point, developed collaboratively, featuring interactive tutorials, user-friendly design, and comprehensive resources.",
       "skills": ["HTML", "CSS", "Javascript"],
-      "demo": "https://www.example.com",
+      "demo": "https://khushboo-dar.github.io/tutorials-point-clone/",
       "source": "https://github.com/Khushboo-Dar/tutorials-point-clone"
     },
     {
@@ -20,7 +20,7 @@
       "imageSrc": "projects/project.png",
       "description": "A tic-tac-toe game that lets you play, indicates when a player has won, stores game history, and allows review of previous game versions.",
       "skills": ["Reactjs", "HTML", "CSS"],
-      "demo": "https://codesandbox.io/p/github/Khushboo-Dar/Tic-Tac-Toe-game/main?file=%2Fsrc%2Fstyles.css%3A13%2C1&workspaceId=881b1e26-fba8-4f5a-a452-67f2a1e3cf90",
+      "demo": "https://tic-tac-toe-khushboo-dar.netlify.app/",
       "source": "https://github.com/Khushboo-Dar/Tic-Tac-Toe-game"
     },
     {
